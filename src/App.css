@@ -1,0 +1,34 @@
+/** @format */
+
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+	display: flex;
+	align-content: space-around;
+	justify-content: center;
+}
+.container1 {
+	height: 437px;
+	background-color: #fff;
+	color: #0000005c;
+	width: 384px;
+	padding: 5px;
+	border-radius: 50px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: center;
+}
+input {
+	height: 39px;
+	width: 250px;
+	border: none;
+	border-bottom: 1px solid #0000005c;
+}
+.render {
+	height: 200px;
+	width: 150px;
+}
